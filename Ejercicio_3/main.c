@@ -4,5 +4,6 @@
 int main(int argc, char* argv[]) {
     int x = 2;
     int y = x*M + C;
+    printf(y);
     return 0;
 }
