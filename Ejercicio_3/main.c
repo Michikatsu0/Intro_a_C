@@ -1,5 +1,5 @@
- #include <stdio.h>
- 
+#include <stdio.h>
+
 #define M 5
 #define C 5
 
